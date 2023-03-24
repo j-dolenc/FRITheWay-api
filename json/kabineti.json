@@ -690,5 +690,361 @@
                 "room":"R3.71"
             }
         ]
+    },
+    {
+        "room":"R3.20",
+        "title":"Laboratorij za bioinformatiko",
+        "category":"Lab",
+        "description":"Laboratorij za bioinformatiko 1",
+        "people":[
+            {
+                "name":"Amra Omanović",
+                "room":"R3.20"
+            },
+            {
+                "name":"asist. dr. Tomaž Hočevar",
+                "room":"R3.20"
+            },
+            {
+                "name":"doc. dr. Marinka Žitnik",
+                "room":"R3.20"
+            },
+            {
+                "name":"dr. Lan Žagar",
+                "room":"R3.20"
+            }
+        ]
+    },
+    {
+        "room":"R3.21",
+        "title":"Laboratorij za bioinformatiko",
+        "category":"Lab",
+        "description":"Laboratorij za bioinformatiko 2",
+        "people":[
+            {
+                "name":"asist. dr. Marko Toplak",
+                "room":"R3.21"
+            },
+            {
+                "name":"asist. Vesna Tanko",
+                "room":"R3.21"
+            }
+        ]
+    },
+    {
+        "room":"R3.22",
+        "title":"Laboratorij za bioinformatiko",
+        "category":"Lab",
+        "description":"Laboratorij za bioinformatiko 3",
+        "people":[
+            {
+                "name":"asist. Ajda Pretnar",
+                "room":"R3.22"
+            },
+            {
+                "name":"Gregor Poličar Pavlin",
+                "room":"R3.22"
+            },
+            {
+                "name":"Primož Goder",
+                "room":"R3.22"
+            },
+            {
+                "name":"Aleš Erjavec",
+                "room":"R3.22"
+            },
+            {
+                "name":"asist. Rok Gomišček",
+                "room":"R3.22"
+            }
+        ]
+    },
+    {
+        "room":"R3.27",
+        "title":"Laboratorij za biomedicinske računalniške sisteme in oslikave",
+        "category":"Lab",
+        "description":"LBRSO",
+        "people":[
+            {
+                "name":"asist. Žiga Pirnar",
+                "room":"R3.27"
+            },
+            {
+                "name":"us. mag. Fatime Gashi",
+                "room":"R3.27"
+            },
+            {
+                "name":"doc. dr. Aleš Smrdel",
+                "room":"R3.27"
+            },
+            {
+                "name":"prof. dr. Franc Jager",
+                "room":"R3.27"
+            }
+        ]
+    },
+    {
+        "room":"R3.50",
+        "title":"Laboratorij za e-medije",
+        "category":"Lab",
+        "description":"LEM",
+        "people":[
+            {
+                "name":"asist. mag. Aleks Huč",
+                "room":"R3.50"
+            },
+            {
+                "name":"asist. dr. David Jelenc",
+                "room":"R3.50"
+            },
+            {
+                "name":"mag. Balu Deokate",
+                "room":"R3.50"
+            }
+        ]
+    },
+    {
+        "room":"R2.41",
+        "title":"Laboratorij adaptivne sisteme in paralelno procesiranje",
+        "category":"Lab",
+        "description":"LASPP",
+        "people":[
+            {
+                "name":"asist. Davor Sluga",
+                "room":"R2.41"
+            },
+            {
+                "name":"asist. Nejc Ilc",
+                "room":"R2.41"
+            },
+            {
+                "name":"mag. Rok Česnovar",
+                "room":"R2.41"
+            },
+            {
+                "name":"Matija Rezar",
+                "room":"R2.41"
+            },
+            {
+                "name":"Ratko Pilipović",
+                "room":"R2.41"
+            }
+        ]
+    },
+    {
+        "room":"R2.60",
+        "title":"Laboratorij za informatiko",
+        "category":"Lab",
+        "description":"LI",
+        "people":[
+            {
+                "name":"Damjan Fujs",
+                "room":"R2.60"
+            },
+            {
+                "name":"Mojca Majer",
+                "room":"R2.60"
+            }
+        ]
+    },
+    {
+        "room":"R2.20",
+        "title":"Laboratorij za integracijo informacijskih sistemov",
+        "category":"Lab",
+        "description":"LIIS 1",
+        "people":[
+            {
+                "name":"asist. Anton Zvonko Gazvoda",
+                "room":"R2.20"
+            },
+            {
+                "name":"asist. Jan Meznarič",
+                "room":"R2.20"
+            },
+            {
+                "name":"asist. Jure Tuta",
+                "room":"R2.20"
+            },
+            {
+                "name":"asist. Miha Nagelj",
+                "room":"R2.20"
+            },
+            {
+                "name":"asist. Rok Povše",
+                "room":"R2.20"
+            },
+            {
+                "name":"dr. Aleš Frece",
+                "room":"R2.20"
+            },
+            {
+                "name":"raz. Luka Šarc",
+                "room":"R2.20"
+            }
+        ]
+    },
+    {
+        "room":"R2.22",
+        "title":"Laboratorij za integracijo informacijskih sistemov",
+        "category":"Lab",
+        "description":"LIIS 2",
+        "people":[
+            {
+                "name":"Aleks Drevenšek",
+                "room":"R2.22"
+            },
+            {
+                "name":"asist. Anton Zvonko Gazvoda",
+                "room":"R2.22"
+            },
+            {
+                "name":"Benjamin Kastelic",
+                "room":"R2.22"
+            },
+            {
+                "name":"Klemen Ferjančič",
+                "room":"R2.22"
+            },
+            {
+                "name":"Marko Škrjanc",
+                "room":"R2.22"
+            },
+            {
+                "name":"dr. Aleš Frece",
+                "room":"R2.22"
+            }
+        ]
+    },
+    {
+        "room":"R2.25",
+        "title":"Laboratorij za kognitivno modeliranje",
+        "category":"Lab",
+        "description":"LKM 1",
+        "people":[
+            {
+                "name":"as. Aleš Papič",
+                "room":"R2.25"
+            },
+            {
+                "name":"dr. Anita Valmarska",
+                "room":"R2.25"
+            },
+            {
+                "name":"Matic Kavaš",
+                "room":"R2.25"
+            },
+            {
+                "name":"Greta Gašparac",
+                "room":"R2.25"
+            },
+            {
+                "name":"Marko Zeman",
+                "room":"R2.25"
+            },
+            {
+                "name":"Kristian Miok",
+                "room":"R2.25"
+            },
+            {
+                "name":"Matej Ulčar",
+                "room":"R2.25"
+            },
+            {
+                "name":"Aleš Žagar",
+                "room":"R2.25"
+            }
+        ]
+    },
+    {
+        "room":"R2.26",
+        "title":"Laboratorij za kognitivno modeliranje",
+        "category":"Lab",
+        "description":"LKM 2",
+        "people":[
+            {
+                "name":"as. Gregor Pirš",
+                "room":"R2.26"
+            },
+            {
+                "name":"asist. dr. Jana Faganeli Pucer",
+                "room":"R2.26"
+            },
+            {
+                "name":"asist. dr. Matej Pičulin",
+                "room":"R2.26"
+            },
+            {
+                "name":"as. dr. Bojan Žunkovič",
+                "room":"R2.26"
+            },
+            {
+                "name":"asist. dr. Petar Vračar",
+                "room":"R2.26"
+            },
+            {
+                "name":"asist. Tadej Škvorc",
+                "room":"R2.26"
+            },
+            {
+                "name":"Jan PAvlin",
+                "room":"R2.26"
+            },
+            {
+                "name":"as. dr. Domen Košir",
+                "room":"R2.26"
+            }
+        ]
+    },
+    {
+        "room":"R2.42",
+        "title":"Laboratorij za podatkovne tehnologije",
+        "category":"Lab",
+        "description":"LPT 1",
+        "people":[
+            {
+                "name":"asist. Sandi Gec",
+                "room":"R2.42"
+            },
+            {
+                "name":"prof. dr. Vlado Stanovski",
+                "room":"R2.42"
+            },
+            {
+                "name":"as. Uroš Paščinski",
+                "room":"R2.42"
+            },
+            {
+                "name":"Janez Brežnik",
+                "room":"R2.42"
+            },
+            {
+                "name":"Petar Kochovski",
+                "room":"R2.42"
+            }   
+        ]
+    },
+    {
+        "room":"R2.44",
+        "title":"Laboratorij za podatkovne tehnologije",
+        "category":"Lab",
+        "description":"LPT 2",
+        "people":[
+            {
+                "name":"asist. dr. Marko Prelevikj",
+                "room":"R2.44"
+            },
+            {
+                "name":"Jernej Cvek",
+                "room":"R2.44"
+            },
+            {
+                "name":"Jure Lokovšek",
+                "room":"R2.44"
+            },
+            {
+                "name":"Mitja Rizvič",
+                "room":"R2.44"
+            }
+        ]
     }
 ]
