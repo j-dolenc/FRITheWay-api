@@ -3,7 +3,7 @@ import mongoose from "mongoose"
 
 interface IProf {
     name:String;
-    cabinet:String;
+    room:String;
 }
 
 interface ProfessorModelInterface extends mongoose.Model<ProfDoc>{
@@ -12,7 +12,7 @@ interface ProfessorModelInterface extends mongoose.Model<ProfDoc>{
 
 interface ProfDoc extends mongoose.Document{
     name:String;
-    cabinet:String;
+    room:String;
 }
 
 const profSchema = new mongoose.Schema({
@@ -20,7 +20,7 @@ const profSchema = new mongoose.Schema({
         type:String,
         required:true,
     },
-    cabinet:{
+    room:{
         type:String,
         required:true
     }

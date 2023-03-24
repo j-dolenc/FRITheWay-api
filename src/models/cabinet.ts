@@ -2,7 +2,9 @@ import mongoose from "mongoose";
 import { Professor } from "./professor";
 
 interface ICabinet {
+  room: String;
   title: String;
+  category: String;
   description: String;
   people: Array<typeof Professor>;
 }
@@ -12,19 +14,29 @@ interface CabinetModelInterface extends mongoose.Model<CabinetDoc>{
 }
 
 interface CabinetDoc extends mongoose.Document{
+    room:String;
     title:String;
+    category: String;
     description:String;
     people:Array<typeof Professor>;
 }
 
 const cabinetSchema = new mongoose.Schema({
+  room: {
+    type: String,
+    required: true,
+  },
   title: {
+    type: String,
+    required: true,
+  },
+  category: {
     type: String,
     required: true,
   },
   description: {
     type: String,
-    required: true,
+    required: false,
   },
   people: {
     type: Array<typeof Professor>,

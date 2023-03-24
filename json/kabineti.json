@@ -1,0 +1,218 @@
+[
+    {
+        "room":"",
+        "title":"",
+        "category":"",
+        "description":"",
+        "people":[
+            {
+                "name":"",
+                "room":""
+            }
+        ]
+    },
+    {
+        "room": "R2.03",
+        "title": "Akademskih 15",
+        "category": "Drugo",
+        "description": "Soba za druženje"
+    },
+    {
+        "room": "R2.23",
+        "title": "Studio FRI",
+        "category": "Drugo",
+        "description": "Studio FRI, FRI TV, FRI banda"
+    },
+    {
+        "room": "R2.24",
+        "title": "Strežnik",
+        "category": "Drugo",
+        "description": "Strežnik, server"
+    },
+    {
+        "room": "R2.28",
+        "title": "Sejna soba",
+        "category": "Drugo",
+        "description": "Sejna soba"
+    },
+    {
+        "room": "R2.31",
+        "title": "Prazno",
+        "category": "Drugo",
+        "description": "Prazno, empty"
+    },
+    {
+        "room": "R2.39",
+        "title": "Upokojeni profesorji",
+        "category": "Drugo",
+        "description": ""
+    },
+    {
+        "room": "R2.43",
+        "title": "ARCTUR",
+        "category": "Drugo",
+        "description": "?"
+    },
+    {
+        "room": "R2.34",
+        "title": "Akademija FRI",
+        "category": "Drugo",
+        "description": ""
+    },
+    {
+        "room": "R2.04",
+        "title": "R2.04",
+        "category": "Kabinet",
+        "description": "",
+        "people": [
+            {
+                "name": "izr. doc. dr. Erik Štrumbelj",
+                "room": "R2.04"
+            },
+            {
+                "name": "izr. prof. dr. Matjaž Kukar",
+                "room": "R2.04"
+            }
+        ]
+    },
+    {
+        "room": "R2.05",
+        "title": "R2.05",
+        "category": "Kabinet",
+        "description": "",
+        "people": [
+            {
+                "name": "prof. dr. Borut Robič",
+                "room": "R2.05"
+            }
+        ]
+    },
+    {
+        "room": "R2.06",
+        "title": "R2.06",
+        "category": "Kabinet",
+        "description": "",
+        "people": [
+            {
+                "name": "prof. dr. Marko Robnik Šikonja",
+                "room": "R2.06"
+            }
+        ]
+    },
+    {
+        "room":"R2.07",
+        "title":"R2.07",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Igor Kononenko",
+                "room":"R2.07"
+            }
+        ]
+    },
+    {
+        "room":"R2.08",
+        "title":"R2.08",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. dr. Peter Peer",
+                "room":"R2.08"
+            }
+        ]
+    },
+    {
+        "room":"R2.09",
+        "title":"R2.09",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. dr. Matija Marolt",
+                "room":"R2.09"
+            }
+        ]
+    },
+    {
+        "room":"R2.14",
+        "title":"R2.14",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Boštjan Slivnik",
+                "room":"R2.14"
+            },
+            {
+                "name":"doc. dr. Luka Fuerst",
+                "room":"R2.14"
+            }
+        ]
+    },
+    {
+        "room":"R2.15",
+        "title":"R2.15",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Luka Šajn",
+                "room":"R2.15"
+            },
+            {
+                "name":"viš. pred. dr. Borut Batagelj",
+                "room":"R2.15"
+            }
+        ]
+    },
+    {
+        "room":"R2.16",
+        "title":"R2.16",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Franc Solina",
+                "room":"R2.16"
+            }
+        ]
+    },
+    {
+        "room":"R2.17",
+        "title":"R2.17",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Zoran Bosnič",
+                "room":"R2.17"
+            }
+        ]
+    },
+    {
+        "room":"R2.18",
+        "title":"R2.18",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Branko Matjaž Jurič",
+                "room":"R2.18"
+            }
+        ]
+    },
+    {
+        "room":"",
+        "title":"",
+        "category":"",
+        "description":"",
+        "people":[
+            {
+                "name":"",
+                "room":""
+            }
+        ]
+    }
+]

@@ -15,8 +15,8 @@ router.get("/api/profs",[],async(req:Request,res:Response) => {
 
 
 router.post("/api/prof",async(req:Request,res:Response) => {
-    const {name,cabinet} = req.body;
-    const prof = Professor.build({name,cabinet})
+    const {name,room} = req.body;
+    const prof = Professor.build({name,room})
     await prof.save()
     return res.status(201).send(prof)
 })
