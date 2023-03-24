@@ -204,14 +204,490 @@
         ]
     },
     {
-        "room":"",
-        "title":"",
-        "category":"",
+        "room":"R2.21",
+        "title":"R2.21",
+        "category":"Kabinet",
         "description":"",
         "people":[
             {
-                "name":"",
-                "room":""
+                "name":"izr. prof. dr. Narvika Bovcon",
+                "room":"R2.21"
+            }
+        ]
+    },
+    {
+        "room":"R2.35",
+        "title":"R2.35",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Aleš Jaklič",
+                "room":"R2.35"
+            },
+            {
+                "name":"doc. dr. Luka Čehovin Zajc",
+                "room":"R2.35"
+            }
+        ]
+    },
+    {
+        "room":"R2.46",
+        "title":"R2.46",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Marko Bajec",
+                "room":"R2.46"
+            }
+        ]
+    },
+    {
+        "room":"R2.47",
+        "title":"R2.47",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Vlado Stanovski",
+                "room":"R2.47"
+            }
+        ]
+    },
+    {
+        "room":"R2.48",
+        "title":"R2.48",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Branko Šter",
+                "room":"R2.48"
+            }
+        ]
+    },
+    {
+        "room":"R2.49",
+        "title":"R2.49",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Dejan Lavbič",
+                "room":"R2.49"
+            },
+            {
+                "name":"doc. dr. Lovro Šubelj",
+                "room":"R2.49"
+            }
+        ]
+    },
+    {
+        "room":"R2.50",
+        "title":"R2.50",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"viš. pred. dr. Igor Rožanc",
+                "room":"R2.50"
+            },
+            {
+                "name":"viš. pred. dr. Robert Rozman",
+                "room":"R2.50"
+            }
+        ]
+    },
+    {
+        "room":"R2.55",
+        "title":"R2.55",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. dr. Patricio Bulić",
+                "room":"R2.55"
+            }
+        ]
+    },
+    {
+        "room":"R2.56",
+        "title":"R2.56",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. dr. Uroš Lotrič",
+                "room":"R2.56"
+            }
+        ]
+    },
+    {
+        "room":"R2.57",
+        "title":"R2.57",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. dr. Danijel Skočaj",
+                "room":"R2.57"
+            },
+            {
+                "name":"izr. prof. dr. Matej Kristan",
+                "room":"R2.57"
+            }
+        ]
+    },
+    {
+        "room":"R2.58",
+        "title":"R2.58",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Slavko Žitnik",
+                "room":"R2.58"
+            },
+            {
+                "name":"viš. pred. dr. Aljaž Zrnec",
+                "room":"R2.58"
+            }
+        ]
+    },
+    {
+        "room":"R2.59",
+        "title":"R2.59",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. dr. Damjan Vavpotič",
+                "room":"R2.59"
+            }
+        ]
+    },
+    {
+        "room":"R2.61",
+        "title":"R2.61",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Jurij Mihelič",
+                "room":"R2.61"
+            },
+            {
+                "name":"doc. dr. Tomaž Dobravec",
+                "room":"R2.61"
+            }
+        ]
+    },
+    {
+        "room":"R2.62",
+        "title":"R2.62",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Rok Rupnik",
+                "room":"R2.62"
+            },
+            {
+                "name":"izr. prof. dr. Tomaž Hovelja",
+                "room":"R2.62"
+            }
+        ]
+    },
+    {
+        "room":"R2.30",
+        "title":"Laboratorij za algoritmiko",
+        "category":"Lab",
+        "description":"LAPS",
+        "people":[
+            {
+                "name":"dr. Uroš Čibej",
+                "room":"R2.30"
+            }
+        ]
+    },
+    {
+        "room":"R2.40",
+        "title":"LAPS",
+        "category":"Lab",
+        "description":"LAPS?"
+    },
+    {
+        "room":"R3.21",
+        "title":"REVELO",
+        "category":"Drugo",
+        "description":""
+    },
+    {
+        "room":"R3.23",
+        "title":"Frižider",
+        "category":"Drugo",
+        "description":"Frižider"
+    },
+    {
+        "room":"R3.24",
+        "title":"CJVT",
+        "category":"Drugo",
+        "description":""
+    },
+    {
+        "room":"R3.52",
+        "title":"ARCTUR",
+        "category":"Drugo",
+        "description":""
+    },
+    {
+        "room":"R3.62",
+        "title":"STUDIS",
+        "category":"Drugo",
+        "description":""
+    },
+    {
+        "room":"R3.05",
+        "title":"R3.05",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Franc Jager",
+                "room":"R3.05"
+            }
+        ]
+    },
+    {
+        "room":"R3.06",
+        "title":"R3.06",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Aleksandar Jurišić",
+                "room":"R3.06"
+            }
+        ]
+    },
+    {
+        "room":"R3.07",
+        "title":"R3.07",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. dr. Iztok Lebar Bajec",
+                "room":"R3.07"
+            }
+        ]
+    },
+    {
+        "room":"R3.08",
+        "title":"R3.08",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Bojan Orel",
+                "room":"R3.08"
+            }
+        ]
+    },
+    {
+        "room":"R3.09",
+        "title":"R3.09",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Gašper Fijavž",
+                "room":"R3.09"
+            }
+        ]
+    },
+    {
+        "room":"R3.14",
+        "title":"R3.14",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Aleš Smrdel",
+                "room":"R3.14"
+            },
+            {
+                "name":"doc. dr. Žiga Virk",
+                "room":"R3.14"
+            }
+        ]
+    },
+    {
+        "room":"R3.15",
+        "title":"R3.15",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. doc. dr. Tomaž Curk",
+                "room":"R3.15"
+            },
+            {
+                "name":"doc.dr. Veljko Pejović",
+                "room":"R3.15"
+            }
+        ]
+    },
+    {
+        "room":"R3.16",
+        "title":"R3.16",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. dr. Polon Oblak",
+                "room":"R3.16"
+            }
+        ]
+    },
+    {
+        "room":"R3.17",
+        "title":"R3.17",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Blaž Zupan",
+                "room":"R3.17"
+            }
+        ]
+    },
+    {
+        "room":"R3.18",
+        "title":"R3.18",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Janez Demšar",
+                "room":"R3.18"
+            }
+        ]
+    },
+    {
+        "room":"R3.58",
+        "title":"R3.58",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"akad. prof. dr. Ivan Bratko",
+                "room":"R3.58"
+            }
+        ]
+    },
+    {
+        "room":"R3.59",
+        "title":"R3.59",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Miha Mraz",
+                "room":"R3.59"
+            }
+        ]
+    },
+    {
+        "room":"R3.60",
+        "title":"R3.60",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Nikolaj Zimic",
+                "room":"R3.60"
+            }
+        ]
+    },
+    {
+        "room":"R3.61",
+        "title":"R3.61",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Miha Moškron",
+                "room":"R3.61"
+            }
+        ]
+    },
+    {
+        "room":"R3.67",
+        "title":"R3.67",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"dr. Andrej Brodnik",
+                "room":"R3.67"
+            }
+        ]
+    },
+    {
+        "room":"R3.68",
+        "title":"R3.68",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"prof. dr. Denis Trček",
+                "room":"R3.68"
+            }
+        ]
+    },
+    {
+        "room":"R3.69",
+        "title":"R3.69",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Aleksander Sadikov",
+                "room":"R3.69"
+            },
+            {
+                "name":"doc. dr. Matej Guid",
+                "room":"R3.69"
+            }
+        ]
+    },
+    {
+        "room":"R3.70",
+        "title":"R3.70",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"doc. dr. Mira Trebar",
+                "room":"R3.70"
+            },
+            {
+                "name":"doc. dr. Aljaž Zalar",
+                "room":"R3.70"
+            }
+        ]
+    },
+    {
+        "room":"R3.71",
+        "title":"R3.71",
+        "category":"Kabinet",
+        "description":"",
+        "people":[
+            {
+                "name":"izr. prof. dr. Mojca Ciglarič",
+                "room":"R3.71"
             }
         ]
     }
