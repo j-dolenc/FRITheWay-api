@@ -32,4 +32,4 @@ profSchema.statics.build = (attr: IProf) => {
 const Professor = mongoose.model<ProfDoc,ProfessorModelInterface>("Professor", profSchema);
 
 
-export {Professor}
+export {Professor};
