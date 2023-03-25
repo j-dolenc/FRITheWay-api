@@ -3,8 +3,16 @@ import { Professor } from "../models/professor";
 
 const router = express.Router();
 
-router.post("/api/profs",(req:Request,res:Response) => {
-
+//post multiple professors
+router.post("/api/profs",async(req:Request,res:Response) => {
+    const profs = req.body;
+    //console.log(cabinets);
+    for(var prof of profs){
+        const{name, room} = prof;
+        const professor = Professor.build({name,room});
+        await prof.save();
+    }
+    return res.status(201).send(profs);
 })
 
 
@@ -22,8 +30,10 @@ router.post("/api/prof",async(req:Request,res:Response) => {
 })
 
 
-router.get("/api/prof",(req:Request,res:Response)=>{
-
+router.get("/api/prof",async(req:Request,res:Response)=>{
+    const {name} = req.body;
+    const prof = await Professor.find({name});
+    return res.status(200).send(prof);
 })
 
 export {router as profRouter};

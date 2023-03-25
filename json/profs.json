@@ -1,0 +1,706 @@
+[
+    {
+        "name":"Erik Štrumbelj",
+        "room":"2.04"
+    },
+    {
+        "name":"Matjaž Kukar",
+        "room":"R2.04"
+    },
+    {
+        "name":"Borut Robič",
+        "room":"R2.05"
+    },
+    {
+        "name":"Marko Robnik Šikonja",
+        "room":"R2.06"
+    },
+    {
+        "name":"Igor Kononenko",
+        "room":"R2.07"
+    },
+    {
+        "name":"Matija Marolt",
+        "room":"R2.09"
+    },
+    {
+        "name":"Peter Peer",
+        "room":"R2.08"
+    },
+    {
+        "name":"Boštjan Slivnik",
+        "room":"R2.14"
+    },
+    {
+        "name":"Luka Fuerst",
+        "room":"R2.14"
+    },
+    {
+        "name":"Luka Šajn",
+        "room":"R2.15"
+    },
+    {
+        "name":"Borut Batagelj",
+        "room":"R2.15"
+    },
+    {
+        "name":"Franc Solina",
+        "room":"R2.16"
+    },
+    {
+        "name":"Zoran Bosnić",
+        "room":"R2.17"
+    },
+    {
+        "name":"Branko Matjaž Jurič",
+        "room":"R2.18"
+    },
+    {
+        "name":"Narvika Bovcon",
+        "room":"R2.21"
+    },
+    {
+        "name":"Aleš Jaklič",
+        "room":"R2.35"
+    },
+    {
+        "name":"Luka Čehovin Zajc",
+        "room":"R2.35"
+    },
+    {
+        "name":"Marko Bajec",
+        "room":"R2.46"
+    },
+    {
+        "name":"Vlado Stanovski",
+        "room":"R2.47"
+    },
+    {
+        "name":"Branko Šter",
+        "room":"R2.48"
+    },
+    {
+        "name":"Dejan Lavbič",
+        "room":"R2.49"
+    },
+    {
+        "name":"Lovro Šubelj",
+        "room":"R2.49"
+    },
+    {
+        "name":"Igor Rožanc",
+        "room":"R2.50"
+    },
+    {
+        "name":"Robert Rozman",
+        "room":"R2.50"
+    },
+    {
+        "name":"Patricio Bulić",
+        "room":"R2.55"
+    },
+    {
+        "name":"Uroš Lotrič",
+        "room":"R2.56"
+    },
+    {
+        "name":"Danijel Skočaj",
+        "room":"R2.57"
+    },
+    {
+        "name":"Matej Kristan",
+        "room":"R2.57"
+    },
+    {
+        "name":"Slavko Žitnik",
+        "room":"R2.58"
+    },
+    {
+        "name":"Aljaž Zrnec",
+        "room":"R2.58"
+    },
+    {
+        "name":"Damjan Vavpotič",
+        "room":"R2.59"
+    },
+    {
+        "name":"Jurij Mihelič",
+        "room":"R2.61"
+    },
+    {
+        "name":"Tomaž Dobravec",
+        "room":"R2.61"
+    },
+    {
+        "name":"Rok Rupnik",
+        "room":"R2.62"
+    },
+    {
+        "name":"Tomaž Hovelja",
+        "room":"R2.62"
+    },
+    {
+        "name":"Franc Jager",
+        "room":"R3.05"
+    },
+    {
+        "name":"Aleksandar Jurišić",
+        "room":"R3.06"
+    },
+    {
+        "name":"Iztok Lebar Bajec",
+        "room":"R3.07"
+    },
+    {
+        "name":"Bojan Orel",
+        "room":"R3.08"
+    },
+    {
+        "name":"Gašper Fijavž",
+        "room":"R3.09"
+    },
+    {
+        "name":"Aleš Smrdel",
+        "room":"R3.14"
+    },
+    {
+        "name":"Žiga Virk",
+        "room":"R3.14"
+    },
+    {
+        "name":"Tomaž Curk",
+        "room":"R3.15"
+    },
+    {
+        "name":"Veljko Pejović",
+        "room":"R3.15"
+    },
+    {
+        "name":"Polona Oblak",
+        "room":"R3.16"
+    },
+    {
+        "name":"Blaž Zupan",
+        "room":"R3.17"
+    },
+    {
+        "name":"Janez Demšar",
+        "room":"R3.18"
+    },
+    {
+        "name":"Ivan Bratko",
+        "room":"R3.58"
+    },
+    {
+        "name":"Miha Mraz",
+        "room":"R3.59"
+    },
+    {
+        "name":"Nikolaj Zimic",
+        "room":"R3.60"
+    },
+    {
+        "name":"Miha Moškon",
+        "room":"R3.61"
+    },
+    {
+        "name":"Andrej Brodnik",
+        "room":"R3.67"
+    },
+    {
+        "name":"Denis Trček",
+        "room":"R3.68"
+    },
+    {
+        "name":"Aleksander Sadikov",
+        "room":"R3.69"
+    },
+    {
+        "name":"Matej Guid",
+        "room":"R3.69"
+    },
+    {
+        "name":"Miha Trebar",
+        "room":"R3.70"
+    },
+    {
+        "name":"Aljaž Zalar",
+        "room":"R3.70"
+    },
+    {
+        "name":"Mojca Ciglarič",
+        "room":"R3.71"
+    },
+    {
+        "name":"Urška Žnidaršič",
+        "room":"R3.04"
+    },
+    {
+        "name":"Vesna Gračner",
+        "room":"R3.04"
+    },
+    {
+        "name":"Andreja Jurček",
+        "room":"R3.73"
+    },
+    {
+        "name":"Kesnija Rozman",
+        "room":"R3.73"
+    },
+    {
+        "name":"Helena Zupan",
+        "room":"R3.74"
+    },
+    {
+        "name":"Zdenka Velikonja",
+        "room":"R3.74"
+    },
+    {
+        "name":"Aljoša Besednjak",
+        "room":"R2.32"
+    },
+    {
+        "name":"Andrej Šeruga",
+        "room":"R2.32"
+    },
+    {
+        "name":"Marko Firm",
+        "room":"R2.32"
+    },
+    {
+        "name":"Amra Omanovič",
+        "room":"R3.20"
+    },
+    {
+        "name":"Tomaž Hočevar",
+        "room":"R3.20"
+    },
+    {
+        "name":"Marinka Žitnik",
+        "room":"R3.20"
+    },
+    {
+        "name":"Lan Žagar",
+        "room":"R3.20"
+    },
+    {
+        "name":"Marko Toplak",
+        "room":"R3.21"
+    },
+    {
+        "name":"Vesna Tanko",
+        "room":"R3.21"
+    },
+    {
+        "name":"Ajda Pretnar",
+        "room":"R3.22"
+    },
+    {
+        "name":"Gregor Poličar Pavlin",
+        "room":"R3.22"
+    },
+    {
+        "name":"Primož Godec",
+        "room":"R3.22"
+    },
+    {
+        "name":"Aleš Erjavec",
+        "room":"R3.22"
+    },
+    {
+        "name":"Rok Gomišček",
+        "room":"R3.22"
+    },
+    {
+        "name":"Žiga Pirnar",
+        "room":"R3.27"
+    },
+    {
+        "name":"Fatime Gashi",
+        "room":"R3.27"
+    },
+    {
+        "name":"Aleks Huč",
+        "room":"R3.50"
+    },
+    {
+        "name":"David Jelenc",
+        "room":"R3.50"
+    },
+    {
+        "name":"Balu Deokate",
+        "room":"R3.50"
+    },
+    {
+        "name":"Peter Gabrovšek",
+        "room":"R2.30"
+    },
+    {
+        "name":"Uroš Čibej",
+        "room":"R2.30"
+    },
+    {
+        "name":"Davor Sluga",
+        "room":"R2.41"
+    },
+    {
+        "name":"Nejc Ilc",
+        "room":"R2.41"
+    },
+    {
+        "name":"Rok Česnovar",
+        "room":"R2.41"
+    },
+    {
+        "name":"Matija Rezar",
+        "room":"R2.41"
+    },
+    {
+        "name":"Ratko Pilipović",
+        "room":"R2.41"
+    },
+    {
+        "name":"Damjan Fujs",
+        "room":"R2.60"
+    },
+    {
+        "name":"Mojca Majer",
+        "room":"R2.60"
+    },
+    {
+        "name":"Anton Zvonko Gazvoda",
+        "room":"R2.20"
+    },
+    {
+        "name":"Jan Meznarič",
+        "room":"R2.20"
+    },
+    {
+        "name":"Jure Tuta",
+        "room":"R2.20"
+    },
+    {
+        "name":"Miha Nagelj",
+        "room":"R2.20"
+    },
+    {
+        "name":"Rok Povše",
+        "room":"R2.20"
+    },
+    {
+        "name":"Aleš Frece",
+        "room":"R2.20"
+    },
+    {
+        "name":"Luka Šarc",
+        "room":"R2.20"
+    },
+    {
+        "name":"Aleks Drevenšek",
+        "room":"R2.22"
+    },
+    {
+        "name":"Benjamin Kastelic",
+        "room":"R2.22"
+    },
+    {
+        "name":"Klemen Ferjančič",
+        "room":"R2.22"
+    },
+    {
+        "name":"Marko Škerjanec",
+        "room":"R2.22"
+    },
+    {
+        "name":"Aleš Papič",
+        "room":"R2.25"
+    },
+    {
+        "name":"Anita Valmarska",
+        "room":"R2.25"
+    },
+    {
+        "name":"Matic Kavaš",
+        "room":"R2.25"
+    },
+    {
+        "name":"Greta Gašparac",
+        "room":"R2.25"
+    },
+    {
+        "name":"Marko Zeman",
+        "room":"R2.25"
+    },
+    {
+        "name":"Kristian Miok",
+        "room":"R2.25"
+    },
+    {
+        "name":"Matej Ulčar",
+        "room":"R2.25"
+    },
+    {
+        "name":"Aleš Žagar",
+        "room":"R2.25"
+    },
+    {
+        "name":"Gregor Pirš",
+        "room":"R2.26"
+    },
+    {
+        "name":"Jana Faganeli Pucer",
+        "room":"R2.26"
+    },
+    {
+        "name":"Matej Pičulin",
+        "room":"R2.26"
+    },
+    {
+        "name":"Bojan Žunkovič",
+        "room":"R2.26"
+    },
+    {
+        "name":"Petar Vračar",
+        "room":"R2.26"
+    },
+    {
+        "name":"Tadej Škvor",
+        "room":"R2.26"
+    },
+    {
+        "name":"Jan Pavlin",
+        "room":"R2.26"
+    },
+    {
+        "name":"Domen Košir",
+        "room":"R2.26"
+    },
+    {
+        "name":"Sandi Gec",
+        "room":"R2.42"
+    },
+    {
+        "name":"Uroš Paščinski",
+        "room":"R2.42"
+    },
+    {
+        "name":"Janez Brežnik",
+        "room":"R2.42"
+    },
+    {
+        "name":"Petar Kochovski",
+        "room":"R2.42"
+    },
+    {
+        "name":"Marko Prelevikj",
+        "room":"R2.44"
+    },
+    {
+        "name":"Jernej Cvek",
+        "room":"R2.44"
+    },
+    {
+        "name":"Jure Lokovšek",
+        "room":"R2.44"
+    },
+    {
+        "name":"Mitja Rizvič",
+        "room":"R2.44"
+    },
+    {
+        "name":"Blaž Meden",
+        "room":"R2.33"
+    },
+    {
+        "name":"Bojan Klemenc",
+        "room":"R2.33"
+    },
+    {
+        "name":"Žiga Emeršić",
+        "room":"R2.33"
+    },
+    {
+        "name":"Matej Vitek",
+        "room":"R2.33"
+    },
+    {
+        "name":"Ajda Lampe",
+        "room":"R2.33"
+    },
+    {
+        "name":"Peter Rot",
+        "room":"R2.33"
+    },
+    {
+        "name":"Vid Računalniški",
+        "room":"R2.33"
+    },
+    {
+        "name":"Ciril Bohak",
+        "room":"R2.29"
+    },
+    {
+        "name":"Matevž Pesek",
+        "room":"R2.29"
+    },
+    {
+        "name":"Manca Žerovnik Mekuč",
+        "room":"R2.29"
+    },
+    {
+        "name":"Žiga Lesar",
+        "room":"R2.29"
+    },
+    {
+        "name":"Vid Klopčič",
+        "room":"R2.29"
+    },
+    {
+        "name":"Alenka Poženel",
+        "room":"R2.29"
+    },
+    {
+        "name":"Marko Poženel",
+        "room":"R2.29"
+    },
+    {
+        "name":"Alan Lukežič",
+        "room":"R2.37"
+    },
+    {
+        "name":"Borja Bovcon",
+        "room":"R2.37"
+    },
+    {
+        "name":"Domen Tabernik",
+        "room":"R2.37"
+    },
+    {
+        "name":"Jon Natanael Muhovič",
+        "room":"R2.37"
+    },
+    {
+        "name":"Matej Dobrevski",
+        "room":"R2.37"
+    },
+    {
+        "name":"Vitijan Zavratnik",
+        "room":"R2.37"
+    },
+    {
+        "name":"Lojze Žust",
+        "room":"R2.37"
+    },
+    {
+        "name":"Klemen Klanjšček",
+        "room":"R3.28"
+    },
+    {
+        "name":"Kristina Veljković",
+        "room":"R3.28"
+    },
+    {
+        "name":"Aleksandra Franc",
+        "room":"R3.26"
+    },
+    {
+        "name":"Damir Franetič",
+        "room":"R3.26"
+    },
+    {
+        "name":"Gregor Jerše",
+        "room":"R3.26"
+    },
+    {
+        "name":"Peter Marijan Kink",
+        "room":"R3.26"
+    },
+    {
+        "name":"Jelena Klisara",
+        "room":"R3.26"
+    },
+    {
+        "name":"Marko Boben",
+        "room":"R3.26"
+    },
+    {
+        "name":"Martin Vuk",
+        "room":"R3.26"
+    },
+    {
+        "name":"Nežka Mramor Kosta",
+        "room":"R3.26"
+    },
+    {
+        "name":"Matjaž Pančur",
+        "room":"R3.72"
+    },
+    {
+        "name":"Miha Grohar",
+        "room":"R3.72"
+    },
+    {
+        "name":"Miha Janež",
+        "room":"R3.56"
+    },
+    {
+        "name":"Lidija Magdevska",
+        "room":"R3.56"
+    },
+    {
+        "name":"Žiga Pušnik",
+        "room":"R3.56"
+    },
+    {
+        "name":"Jure Demšar",
+        "room":"R3.56"
+    },
+    {
+        "name":"Miran Koprivec",
+        "room":"R3.56"
+    },
+    {
+        "name":"Marta Malavolta",
+        "room":"R3.54"
+    },
+    {
+        "name":"Vida Groznik",
+        "room":"R3.54"
+    },
+    {
+        "name":"Andrea de Gobbis",
+        "room":"R3.54"
+    },
+    {
+        "name":"Jure Žabkar",
+        "room":"R3.54"
+    },
+    {
+        "name":"Teodora Matić",
+        "room":"R3.54"
+    },
+    {
+        "name":"Dejan Gregoriev",
+        "room":"R3.55"
+    },
+    {
+        "name":"Martin Možina",
+        "room":"R3.55"
+    },
+    {
+        "name":"David Modic",
+        "room":"R3.53"
+    },
+    {
+        "name":"Octavian Machidon",
+        "room":"R3.53"
+    },
+    {
+        "name":"Alina Machidon",
+        "room":"R3.53"
+    },
+    {
+        "name":"Andraž Krašovec",
+        "room":"R3.53"
+    }
+]
