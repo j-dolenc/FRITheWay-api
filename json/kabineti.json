@@ -1,17 +1,5 @@
 [
     {
-        "room":"",
-        "title":"",
-        "category":"",
-        "description":"",
-        "people":[
-            {
-                "name":"",
-                "room":""
-            }
-        ]
-    },
-    {
         "room": "R2.03",
         "title": "Akademskih 15",
         "category": "Drugo",
@@ -1044,6 +1032,408 @@
             {
                 "name":"Mitja Rizvič",
                 "room":"R2.44"
+            }
+        ]
+    },
+    {
+        "room":"R2.33",
+        "title":"Laboratorij za računalniški vid",
+        "category":"Lab",
+        "description":"LRV",
+        "people":[
+            {
+                "name":"asist. Blaž Meden",
+                "room":"R2.33"
+            },
+            {
+                "name":"asist. mag. Bojan Klemenc",
+                "room":"R2.33"
+            },
+            {
+                "name":"asist. Žiga Emeršić",
+                "room":"R2.33"
+            },
+            {
+                "name":"Matej Vitek",
+                "room":"R2.33"
+            },
+            {
+                "name":"Ajda Lampe",
+                "room":"R2.33"
+            },
+            {
+                "name":"Peter Rot",
+                "room":"R2.33"
+            },
+            {
+                "name":"as. Vid Računalniški",
+                "room":"R2.33"
+            }
+        ]
+    },
+    {
+        "room":"R2.29",
+        "title":"Laboratorij za računalniški grafiko in multimedije",
+        "category":"Lab",
+        "description":"LRGM",
+        "people":[
+            {
+                "name":"asist. dr. Ciril Bohak",
+                "room":"R2.29"
+            },
+            {
+                "name":"asist. dr. Matevž Pesek",
+                "room":"R2.29"
+            },
+            {
+                "name":"asist. Manca Žerovnik Mekuč",
+                "room":"R2.29"
+            },
+            {
+                "name":"asost. Žiga Lesar",
+                "room":"R2.29"
+            },
+            {
+                "name":"izr. prof. dr. Matija Marolt",
+                "room":"R2.29"
+            },
+            {
+                "name":"Vid Klopčič",
+                "room":"R2.29"
+            },
+            {
+                "name":"viš. pred. dr. Alenka Kavčič",
+                "room":"R2.29"
+            }
+        ]
+    },
+    {
+        "room":"R2.30",
+        "title":"Laboratorij za tehnologijo programske opreme",
+        "category":"Lab",
+        "description":"LTPO",
+        "people":[
+            {
+                "name":"asist. dr. Marko Poženel",
+                "room":"R2.29"
+            }
+        ]
+    },
+    {
+        "room":"R2.36",
+        "title":"Laboratorij za umetne vizualne spoznavne sisteme",
+        "category":"Lab",
+        "description":"LUVSS 1"
+    },
+    {
+        "room":"R2.37",
+        "title":"Laboratorij za umetne vizualne spoznavne sisteme",
+        "category":"Lab",
+        "description":"LUVSS 2",
+        "people":[
+            {
+                "name":"Alana Lukežič",
+                "room":"R2.37"
+            },
+            {
+                "name":"Borja Bovcon",
+                "room":"R2.37"
+            },
+            {
+                "name":"Domen Tabernik",
+                "room":"R2.37"
+            },
+            {
+                "name":"Jon Natanael Muhovič",
+                "room":"R2.37"
+            },
+            {
+                "name":"Matej Dobrevski",
+                "room":"R2.37"
+            },
+            {
+                "name":"Vitijan Zavratnik",
+                "room":"R2.37"
+            },
+            {
+                "name":"Lojze Žust",
+                "room":"R2.37"
+            }
+        ]
+    },
+    {
+        "room":"R2.32",
+        "title":"R2.32",
+        "category":"Pisarna",
+        "description":"",
+        "people":[
+            {
+                "name":"Aljoša Besednjak - hišnik",
+                "room":"R2.32"
+            },
+            {
+                "name":"Andrej Šeruga - strojnik",
+                "room":"R2.32"
+            },
+            {
+                "name":"Marko Firm - električar",
+                "room":"R2.32"
+            }
+        ]
+    },
+    {
+        "room":"R2.38",
+        "title":"R2.38",
+        "category":"Poligon",
+        "description":"RSD"
+    },
+    {
+        "room":"R2.27",
+        "title":"R2.27",
+        "category":"Poligon",
+        "description":""
+    },
+    {
+        "room":"R3.28",
+        "title":"Laboratorij za kriptografijo in računalniško varnost",
+        "category":"Lab",
+        "description":"LKRV",
+        "people":[
+            {
+                "name":"asist. Klemen Klanjšček",
+                "room":"R3.28"
+            },
+            {
+                "name":"as. dr. Kristina Veljković",
+                "room":"R3.28"
+            }
+        ]
+    },
+    {
+        "room":"R3.26",
+        "title":"Laboratorij za matematične metode v računalništvu in informatiki",
+        "category":"Lab",
+        "description":"LMMRI",
+        "people":[
+            {
+                "name":"asist. dr. Aleksandra Franc",
+                "room":"R3.26"
+            },
+            {
+                "name":"asist. dr. Aljaž Zalar",
+                "room":"R3.26"
+            },
+            {
+                "name":"asist. dr. Damir Franetič",
+                "room":"R3.26"
+            },
+            {
+                "name":"asist. dr. Gregor Jerše",
+                "room":"R3.26"
+            },
+            {
+                "name":"asist. dr. Peter Marijan Kink",
+                "room":"R3.26"
+            },
+            {
+                "name":"dr. Jelen Klisara",
+                "room":"R3.26"
+            },
+            {
+                "name":"dr. Marko Boben",
+                "room":"R3.26"
+            },
+            {
+                "name":"as. dr. Martin Vuk",
+                "room":"R3.26"
+            },
+            {
+                "name":"prof. dr. Nežka Mramor Kosta",
+                "room":"R3.26"
+            }
+        ]
+    },
+    {
+        "room":"R3.72",
+        "title":"Laboratorij za računalniške komunikacije",
+        "category":"Lab",
+        "description":"LRK 1",
+        "people":[
+            {
+                "name":"asist. dr. Matjaž Pančur",
+                "room":"R3.72"
+            },
+            {
+                "name":"asist. Miha Grohar",
+                "room":"R3.72"
+            },
+            {
+                "name":"izr. prof. dr. Mojca Ciglarič",
+                "room":"R3.72"
+            }
+        ]
+    },
+    {
+        "room":"R3.56",
+        "title":"Laboratorij za računalniške strukture in sisteme",
+        "category":"Lab",
+        "description":"LRSS",
+        "people":[
+            {
+                "name":"asist. dr. Miha Janež",
+                "room":"R3.56"
+            },
+            {
+                "name":"Lidija Magdevska",
+                "room":"R3.56"
+            },
+            {
+                "name":"Žiga Pušnik",
+                "room":"R3.56"
+            },
+            {
+                "name":"doc. dr. Jure Demšar",
+                "room":"R3.56"
+            },
+            {
+                "name":"Miran Koprivec",
+                "room":"R3.56"
+            }
+        ]
+    },
+    {
+        "room":"R3.54",
+        "title":"Laboratorij za umetno inteligenco",
+        "category":"Lab",
+        "description":"LUI 1",
+        "people":[
+            {
+                "name":"as. Marta Malavolta",
+                "room":"R3.54"
+            },
+            {
+                "name":"asist. dr. Vida Groznik",
+                "room":"R3.54"
+            },
+            {
+                "name":"Andrega de Gobbis",
+                "room":"R3.54"
+            },
+            {
+                "name":"doc. dr. Aleksander Sadikov",
+                "room":"R3.54"
+            },
+            {
+                "name":"doc. dr. Jure Žabkar",
+                "room":"R3.54"
+            },
+            {
+                "name":"Teodora Matić",
+                "room":"R3.54"
+            }
+        ]
+    },
+    {
+        "room":"R3.55",
+        "title":"Laboratorij za umetno inteligenco",
+        "category":"Lab",
+        "description":"LUI 2",
+        "people":[
+            {
+                "name":"doc. dr. Dejan Gregoriev",
+                "room":"R3.55"
+            },
+            {
+                "name":"Martin Možina",
+                "room":"R3.55"
+            }
+        ]
+    },
+    {
+        "room":"R3.53",
+        "title":"Laboratorij za računalniške komunikacije",
+        "category":"Lab",
+        "description":"LRK 2",
+        "people":[
+            {
+                "name":"izr. prof. dr. Mojca Ciglarič",
+                "room":"R3.53"
+            },
+            {
+                "name":"doc.dr. Veljko Pejović",
+                "room":"R3.53"
+            },
+            {
+                "name":"doc. dr. David Modic",
+                "room":"R3.53"
+            },
+            {
+                "name":"asist. dr. Matjaž Pančur",
+                "room":"R3.53"
+            },
+            {
+                "name":"as. dr. Octavian Machidon",
+                "room":"R3.53"
+            },
+            {
+                "name":"as. dr. Alina Machidon",
+                "room":"R3.53"
+            },
+            {
+                "name":"asist. Miha Grohar",
+                "room":"R3.53"
+            },
+            {
+                "name":"Andraž Krašovec",
+                "room":"R3.53"
+            }
+        ]
+    },
+    {
+        "room":"R3.04",
+        "title":"R3.04",
+        "category":"Pisarna",
+        "description":"",
+        "people":[
+            {
+                "name":"Vesna Gračner",
+                "room":"R3.04"
+            },
+            {
+                "name":"Urška Žnidaršič",
+                "room":"R3.04"
+            }
+        ]
+    },
+    {
+        "room":"R3.73",
+        "title":"R3.73",
+        "category":"Pisarna",
+        "description":"",
+        "people":[
+            {
+                "name":"Andreja Jurček",
+                "room":"R3.73"
+            },
+            {
+                "name":"mag. Ksenija Rozman",
+                "room":"R3.73"
+            }
+        ]
+    },
+    {
+        "room":"R3.74",
+        "title":"R3.74",
+        "category":"Pisarna",
+        "description":"",
+        "people":[
+            {
+                "name":"Helena Zupan",
+                "room":"R3.74"
+            },
+            {
+                "name":"Zdenka Velikonja",
+                "room":"R3.74"
             }
         ]
     }
